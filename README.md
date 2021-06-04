@@ -3,4 +3,6 @@ About
 
 
 - 👋 Hi, I’m @pandasTong
--  :tada: 
+- Tulane Univeristy 
+  - A.B. Freeman School of Business 
+    - :tada:
