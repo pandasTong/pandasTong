@@ -7,10 +7,10 @@ About
     + 💪 Pursuing career in Data Science and Analytics 
     + 👉 Check out some projects on [TBAnalytic](https://tbanalytic.com) 
     
-+ ### **Tulane Univeristy, A.B. Freeman School of Business**
++ **Tulane Univeristy, A.B. Freeman School of Business**
     + MS *Business Analytics*, Dec 2021
 
-+ ### Tools 
++ Tools 
     <img src="https://cdn.svgporn.com/logos/python.svg" width="30" height="30"> &nbsp; &nbsp; 
     <img src="https://cdn.svgporn.com/logos/r-lang.svg" width="30" height="30"> &nbsp; &nbsp;
     <img src="https://cdn.svgporn.com/logos/tableau-icon.svg" width="30" height="30"> &nbsp; &nbsp;
