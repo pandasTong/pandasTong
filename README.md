@@ -11,6 +11,7 @@ About
     + MS *Business Analytics*, Dec 2021
 
 + Tools 
+
     <img src="https://cdn.svgporn.com/logos/python.svg" width="30" height="30"> &nbsp; &nbsp; 
     <img src="https://cdn.svgporn.com/logos/r-lang.svg" width="30" height="30"> &nbsp; &nbsp;
     <img src="https://cdn.svgporn.com/logos/tableau-icon.svg" width="30" height="30"> &nbsp; &nbsp;
