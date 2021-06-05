@@ -1,5 +1,6 @@
-About
-=
+<h1 align = 'center'>
+    About
+    </h1>
 
 + 👋 Hi, I’m @pandasTong
 
@@ -25,6 +26,7 @@ About
     <img src="https://cdn.svgporn.com/logos/wordpress-icon.svg" width="30" height="30"> &nbsp; &nbsp;
     <img src="https://raw.githubusercontent.com/pandasTong/md_material/main/dash.png" width="30" height="30"> &nbsp; &nbsp;
 
-<br/>  
+<br/>
+<hr/>  
 
 *Logos are from public domains, all logos are property of their respective owners*
