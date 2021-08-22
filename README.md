@@ -22,9 +22,9 @@
     <img src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" width="30" height="30"> &nbsp; &nbsp;
     <img src="https://cdn.svgporn.com/logos/jupyter.svg" width="30" height="30"> &nbsp; &nbsp;
     <img src="https://cdn.svgporn.com/logos/aws.svg" width="30" height="30"> &nbsp; &nbsp;
-    <img src="https://raw.githubusercontent.com/pandasTong/md_material/main/ssms.png" width="30" height="30"> &nbsp; &nbsp;
+    <img src="https://raw.githubusercontent.com/pandasTong/pandasTong/main/ssms.png" width="30" height="30"> &nbsp; &nbsp;
     <img src="https://cdn.svgporn.com/logos/wordpress-icon.svg" width="30" height="30"> &nbsp; &nbsp;
-    <img src="https://raw.githubusercontent.com/pandasTong/md_material/main/dash.png" width="30" height="30"> &nbsp; &nbsp;
+    <img src="https://raw.githubusercontent.com/pandasTong/pandasTong/main/dash.png" width="30" height="30"> &nbsp; &nbsp;
 
 <br/>
 <hr/>  
