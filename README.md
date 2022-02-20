@@ -4,7 +4,7 @@
 
 + 👋 Hi, I’m [@pandasTong](https://github.com/pandasTong)
 
-    + 🎉 Current graduate student
+    + 🎉 Master's Graduate, Unemployed
     + 💪 Pursuing career in Data Science and Analytics 
     + 👉 Check out some projects on [TBAnalytic](https://tbanalytic.com) 
     
