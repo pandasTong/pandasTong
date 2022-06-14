@@ -2,7 +2,7 @@
     About
     </h1>
 
-+ 👋 Hi, I’m [@pandasTong](https://github.com/pandasTong)
++ 👋 Hi, I’m [@T. B Github](https://github.com/pandasTong)
 
     + 🎉 Master's Graduate, Unemployed
     + 💪 Pursuing career in Data Science and Analytics 
