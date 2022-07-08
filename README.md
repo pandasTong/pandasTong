@@ -3,10 +3,11 @@
     </h1>
 
 + 👋 Hi, I’m [@T. B Github](https://github.com/pandasTong)
-
-    + 🎉 Master's Graduate, Unemployed
-    + 💪 Pursuing career in Data Science and Analytics 
+    + 🏢 Solutions Developer
+    + 🎉 Master's Graduate
+    + 💪 Data Science and Analytics 
     + 👉 Check out some projects on [TBAnalytic](https://tbanalytic.com) 
+    + [<img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="20">](https://www.linkedin.com/in/tong-bu)
     
 + **Tulane Univeristy, A.B. Freeman School of Business**
     + MS *Business Analytics*, Dec 2021
